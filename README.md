@@ -22,5 +22,9 @@ I am a Full Stack Developer specialized in building robust web applications and 
 
 ---
 
-### 🤝 Connect With Me
-* 💼 **LinkedIn:** [in/gayathri-bandikatla](https://linkedin.com)
+### 🧩 Technical Certifications & Milestones
+
+*   ☁️ **Azure Solutions:** Deepening cloud native infrastructure deployment skills.
+*   🛠️ **Enterprise Delivery:** Shipping high-quality production code at scale.
+*   🏆 **GitHub Contributions:** Actively building open-source AI utility tools.
+
