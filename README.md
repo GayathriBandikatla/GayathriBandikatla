@@ -1,7 +1,9 @@
 # Hi there, I'm Gayathri! 👋
 
-![Role](https://shields.io)
-![Location](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Role" />
+  <img src="https://shields.io" alt="Location" />
+</p>
 
 ### 🚀 About Me
 I am a Full Stack Developer specialized in building robust web applications and intelligent workflows. Currently deeply focused on Generative AI engineering, design, and Multi-Agent Orchestration Systems.
@@ -14,15 +16,17 @@ I am a Full Stack Developer specialized in building robust web applications and 
 
 ### 🛠️ Core Tech Stack
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev" alt="My Skills" />
+</p>
 
 ---
 
 ### 📊 Real-Time GitHub Metrics
 
 <p align="left">
-  <img height="180" src="https://vercel.app" alt="Gayathri's GitHub Stats" />
-  <img height="180" src="https://vercel.app" alt="Gayathri's Top Languages" />
+  <img src="https://vercel.app" height="180" alt="Gayathri's GitHub Stats" />
+  <img src="https://vercel.app" height="180" alt="Gayathri's Top Languages" />
 </p>
 
 ---
