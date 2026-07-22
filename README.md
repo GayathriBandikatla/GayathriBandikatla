@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I am a Full Stack Developer specialized in building robust web applications and intelligent workflows. Currently deeply focused on Generative AI engineering, design, and Multi-Agent Orchestration Systems.
+I'm a Full Stack Developer specialized in building robust web applications and intelligent workflows. Currently deeply focused on Generative AI engineering, design, and Multi-Agent Orchestration Systems.
 
 * 💻 **Backend Engine:** Designing resilient systems using `.NET Core`, `FastAPI`, and `Azure Cloud`.
 * 🎨 **Frontend Design:** Creating modern interfaces with `Angular`, `React`, and `Tailwind CSS`.
